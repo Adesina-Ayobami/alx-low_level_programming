@@ -4,7 +4,7 @@
 * main- Entry
 * Return- Always 0
 */
-main(void)
+
 int main(void)
 {
 	printf("Size of a char: %d byte(s)\n", sizeof(char));

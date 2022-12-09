@@ -2,9 +2,9 @@
 
 /**
 * main- Entry
+* main- (void)
 * Return- Always 0
 */
-main(void)
 
 int main(void)
 {

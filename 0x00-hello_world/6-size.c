@@ -1,9 +1,8 @@
 #include <stdio.h>
 
 /**
- * main - Entry point
- * avoid : parameter
- * Return - 0 (Success)
+ * main- Entry
+ * Return- Always 0
  */
 main(void)
 int main(void)

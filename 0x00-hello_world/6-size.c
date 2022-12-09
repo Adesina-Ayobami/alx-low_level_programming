@@ -2,8 +2,8 @@
 
 /**
 * main- Entry
-* main- (void)
 * Return- Always 0
+* main- (0)
 */
 
 int main(void)

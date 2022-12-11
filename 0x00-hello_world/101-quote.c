@@ -1,13 +1,11 @@
 #include <stdio.h>
-
 /**
-* main- Entry
-* @void- perimeter
-* Return- Always 1
+ * main - print a C program
+ * Code by Adesina Ayobami
+ * Return: 1
 */
-
-int main(void)
+int7 main(void)
 {
-	printf(stderr, "and that piece of art is useful\" - "\"Dora Korpar, 2015-10-19\n");
+	printf("and that piece of art is useful" - Dora Korpar, 2015 - 10 - 19\n");
 	return (1);
 }

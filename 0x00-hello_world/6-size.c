@@ -1,10 +1,9 @@
 #include <stdio.h>
-
 /**
-* main- Entry point
-* Return- Always 0
+ * main - print the value of data type in C
+ * code by Adesina Ayobami
+ * Return: 0
 */
-
 int main(void)
 {
 	printf("Size of a char: %d byte(s)\n", sizeof(char));

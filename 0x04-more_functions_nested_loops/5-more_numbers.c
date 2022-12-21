@@ -11,6 +11,8 @@ void more_numbers(void)
 	{
 		for (y = 0; y < 15; y++)
 		{
+			for (y >= 10)
+				_putchar('1')
 			_putchar(y + '0');
 		}
 	}

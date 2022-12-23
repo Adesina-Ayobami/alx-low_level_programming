@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * more_numbers - nubr fct
+ * more_numbers - nmbr fct
  * Return: no return
  */
 
@@ -9,7 +9,7 @@ void more_numbers(void)
 {
 
 int i, j;
-	for (1 = 1; i <= 10; i++)
+	for (i = 1; i <= 10; i++)
 	{
 		for (j = 0; j <= 14; j++)
 		{

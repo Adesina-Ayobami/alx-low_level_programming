@@ -1,9 +1,9 @@
-#include  "main.h"
+#include "main.h"
 
 /**
- * print_rev -> printing a string in reverse
- * @s: the string to be printed in rev
- */
+* print_rev -> printing a string in reverse
+* @s: the string to be printed in rev
+*/
 
 void print_rev(char *s)
 {
@@ -17,5 +17,5 @@ void print_rev(char *s)
 	{
 		_putchar(s[i]);
 	}
-	_putchar('\n')
+	_putchar('\n');
 }

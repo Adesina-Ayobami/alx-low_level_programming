@@ -1,11 +1,10 @@
 #include "main.h"
 
 /**
- * cap_string - capatilizes all words in a string
+ * cap_string - capitalizes all words in a string
  * @s: string
  * Return: address of s
  */
-
 char *cap_string(char *s)
 {
 	int i = 0, j;
@@ -22,7 +21,7 @@ char *cap_string(char *s)
 				for (j = 0; j <= 12; j++)
 				{
 					if (a[j] == *(s + i - 1))
-						*(s = i) -= 'a' - 'A';
+						*(s + i) -= 'a' - 'A';
 				}
 			}
 		}

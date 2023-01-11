@@ -3,7 +3,7 @@
 /**
  * cap_string - capatilizes all words in a string
  * @s: string
- * Return: Address of s
+ * Return: address of s
  */
 
 char *cap_string(char *s)

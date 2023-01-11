@@ -1,10 +1,10 @@
 #include "main.h"
-
 /**
  * _strcmp - compare 2 string
- * #s1: string
- * @s2: string
+ * #s1:string
+ * @s2:string
  * Return:int
+ * Adesina
  */
 int _strcmp(char *s1, char *s2)
 {
